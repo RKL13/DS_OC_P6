@@ -1,1 +1,4 @@
-# DS_OC_P6
+# Automatically classify e-commerce products
+
+### Mission
+
