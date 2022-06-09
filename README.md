@@ -8,4 +8,4 @@ One of the main interests of this project is the feature extraction part, as the
 
 After diving into "classical" methods in both NLP and Computer Vision fields for feature extraction (BOW, BOVW), we used more advanced techniques with deep learning (we used pre-trained models for word embeddings and several CNNs Architectures for Computer Vision).
 
-Out of curiosity, we also evaluated the feasibility of a supervised model to classify products.
+Out of curiosity, we also evaluated the feasibility of a supervised model to classify those products.
